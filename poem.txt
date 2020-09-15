@@ -1,3 +1,5 @@
+rojo
 amarillo 
 verde
 azul
+morado
