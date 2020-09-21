@@ -3,3 +3,5 @@ amarillo
 verde
 azul
 morado
+naranja
+reciclaje 
